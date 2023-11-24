@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: ("diorback4.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+nav {
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+}
+
+.fragrance-page {
+  background-image: url("");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+/* .backgroundImage {
+  background: ("dioarblack.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+} */
